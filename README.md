@@ -6,7 +6,7 @@
 
 🌴 I've always desired to make technology more accessible by developing user interfaces that are simple to navigate and visually engaging.
 
-📫 Need to get in touch? Reach me at jackgraddon.com/contact/ 
+📫 Need to get in touch? Reach me on [my website](https://jackgraddon.com/contact/).
 
 🌐 jackgraddon.com
 
