@@ -1,4 +1,4 @@
-👋 Hi, I’m @jackgraddon
+👋 Hi, I’m [@jackgraddon](https://github.com/jackgraddon)
 
 👀 I'm a Freelance Web Developer and Graphic Designer.
 
@@ -10,6 +10,6 @@
 
 🌐 [jackgraddon.com](https://jackgraddon.com/)
 
-   Github: @jackgraddon
+   Github: [@jackgraddon](https://github.com/jackgraddon)
    
-   Instagram: @jack.graddon
+   Instagram: [@jack.graddon](https://www.instagram.com/jack.graddon)
