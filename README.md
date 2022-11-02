@@ -8,7 +8,7 @@
 
 📫 Need to get in touch? Reach me on [my website](https://jackgraddon.com/contact/).
 
-🌐 jackgraddon.com
+🌐 [jackgraddon.com](https://jackgraddon.com/)
 
    Github: @jackgraddon
    
