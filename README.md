@@ -9,7 +9,3 @@
 📫 Need to get in touch? Reach me on [my website](https://jackgraddon.com/contact/).
 
 🌐 [jackgraddon.com](https://jackgraddon.com/)
-
-   Github: [@jackgraddon](https://github.com/jackgraddon)
-   
-   Instagram: [@jack.graddon](https://www.instagram.com/jack.graddon)
